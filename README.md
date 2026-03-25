@@ -14,6 +14,14 @@ It allows users to add and view student records using a menu-driven interface.
 
 ---
 
+## 🧠 Concepts Used
+- Object-Oriented Programming
+- JDBC Connectivity
+- DAO Pattern
+- Database Operations
+
+---
+
 ## 🛠️ Technologies Used
 - Java
 - MySQL
@@ -40,10 +48,10 @@ CREATE TABLE students (
 ## 📷 Screenshots
 
 ### Output 1
-![Output1](output 1.png)
+![Output1](output 1)
 
 ### Output 2
-![Output2](output 2.png)
+![Output2](output 2)
 
 ---
 
