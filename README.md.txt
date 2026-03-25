@@ -27,8 +27,13 @@ It allows users to add and view student records using a menu-driven interface.
 3. Update DBConnection.java credentials
 4. Run Main.java
 
-## 📷 Screenshot
-(Add here)
+## 📷 Screenshots
+
+### Output 1
+![Output1](output1.png)
+
+### Output 2
+![Output2](output2.png)
 
 ## 👩‍💻 Author
 Mansi Khairnar
