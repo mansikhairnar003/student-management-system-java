@@ -30,10 +30,10 @@ It allows users to add and view student records using a menu-driven interface.
 ## 📷 Screenshots
 
 ### Output 1
-![Output1](output1.png)
+![Output1](output 1.png)
 
 ### Output 2
-![Output2](output2.png)
+![Output2](output 2.png)
 
 ## 👩‍💻 Author
 Mansi Khairnar
