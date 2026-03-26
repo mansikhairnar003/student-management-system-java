@@ -48,10 +48,10 @@ CREATE TABLE students (
 ## 📷 Screenshots
 
 ### Output 1
-![Output1](output1)
+![Output1](output1.png)
 
 ### Output 2
-![Output2](output2)
+![Output2](output2.png)
 
 ---
 
